@@ -1,0 +1,2 @@
+# josephus
+Josephus Permutation Kata
